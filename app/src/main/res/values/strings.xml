@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News API Example</string>
+    <string name="api_key">b3c19d36436b451b8bf78a677674453b</string>
+    <string name="country">in</string>
+    <string name="categories">Categories</string>
+    <string name="for_more_news">For More news</string>
+    <string name="news_image">newsImage</string>
+
+
+</resources>
